@@ -1,6 +1,6 @@
 ---
 name: Release
-about: XXX
+about: Announce and track an upcoming release
 labels:
   - release
 ---
