@@ -1,6 +1,7 @@
 ---
 name: Release
 about: For release managers to announce and track an upcoming release
+title: Release X.Y.Z
 labels:
   - release
 ---
