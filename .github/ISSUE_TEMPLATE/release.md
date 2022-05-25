@@ -5,6 +5,12 @@ labels:
   - release
 ---
 
+<!-- This issue template is intended for release managers to use to
+track progress on an upcoming release. If you're not a release manager,
+but would like to request a new release, please open a new issue
+in https://github.com/dask/community/issues that does not use the
+"Release" template -->
+
 |  |  |
 | --- | --- |
 | Release version | YYYY.MM.X |
