@@ -1,6 +1,6 @@
 ---
 name: Release
-about: Announce and track an upcoming release
+about: For release managers to announce and track an upcoming release
 labels:
   - release
 ---
